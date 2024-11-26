@@ -1,2 +1,0 @@
-# Locofy
-Locofy Demo
